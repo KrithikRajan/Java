@@ -1,0 +1,8 @@
+At first I learned about the history of Java!
+That is quite simple that it was developed in the year of 1991 by James Gosling.
+
+Then I have seen about installing of compiler, in that I installed jdk-17 and he also instructed to install Visual Studio Code(which I already installed for other languages learning).
+Then added few extensions in the visual studio code.
+
+
+Well! My coding journey begins in Java from 12-02-2024!
