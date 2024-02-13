@@ -8,7 +8,7 @@ This repository serves as a learning platform for Java programming. I'll be regu
 
 ## Learning Resources
 
-**Telusko YouTube Channel:** [Link]([https://www.youtube.com/user/javaboynavin](https://youtu.be/BGTx91t8q50?si=oUXSKiOjQ5YqBm2u))
+**Telusko YouTube Channel:**(https://youtu.be/BGTx91t8q50?si=oUXSKiOjQ5YqBm2u)
 
 ## Content
 
