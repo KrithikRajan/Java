@@ -1,0 +1,11 @@
+Basic Data Types:
+Integer --> Byte
+Float ----> Double, Double float
+Character --> Same as C
+Boolean ----> true or false
+
+Integer Byte calulation:
+Int --> 4 bytes
+Long --> 8 bytes
+Short --> 2 bytes
+Byte ---> 1 byte
