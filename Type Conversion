@@ -1,1 +1,8 @@
-Yes, this is one of the best method in each programming languages, in 
+Yes, this is one of the best method in each programming languages, in his language also it follows the same pattern
+If we want to type cast it, we need to follow the below one!
+Method 1 - Narrowing Casting:
+int a = 97;
+int k = (char)a;
+Method 2 - Widening Casting:
+int a = 97;
+double k = a;
